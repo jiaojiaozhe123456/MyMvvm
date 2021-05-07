@@ -1,2 +1,2 @@
-# MyMvvm
-再也不怕代码丢失了
+# Mvvm架构
+采用jetpack全家桶，
